@@ -22,6 +22,7 @@ void analisa_caracter (char ch) {
 
 
 void main () {
+   
     char    ch;
     
     while (1) {
