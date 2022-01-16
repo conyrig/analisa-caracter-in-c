@@ -1,6 +1,7 @@
 # analisa-caracter-em-c
 Programa em C que analisa caractéres
 
+//Biblioteca necessária
 #include <stdio.h>
 
 void analisa_caracter (char ch) {
