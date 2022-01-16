@@ -1,5 +1,5 @@
-# analisa-caracter-in-c
-Programa em C que analise caractéres
+# analisa-caracter-em-c
+Programa em C que analisa caractéres
 
 #include <stdio.h>
 
